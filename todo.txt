@@ -1,0 +1,18 @@
+
+
+map using image.py
+	- export file with "transform{}.txt".format(i)
+			i is a count for the file
+	exit(i) from python
+
+use system(); calls in cpp to produce the transform{}.txt
+read in the exit code to get the file number
+
+find map for n triangles given from image.py
+
+return IFSystem loaded with the transforms and probabilities
+
+mirroring the transforms for symmetry
+probabilites related to the n triangle transforms
+
++ add weighted vector for frame transform
